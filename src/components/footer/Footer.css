@@ -1,0 +1,6 @@
+.link-contact{
+    display: flex;
+}
+.link-contact .contact{
+    margin-left: 4rem;
+}
